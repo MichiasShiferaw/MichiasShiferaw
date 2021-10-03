@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichiasShiferaw
 - 👀 I’m interested in software 
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me @michiasshif@gmail.com...
 <!---
 MichiasShiferaw/MichiasShiferaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
