@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichiasShiferaw
+# 👋 Hi, I’m @MichiasShiferaw
 - 👀 I’m interested in software 
 - 🌱 I’m currently learning C++
 - 📫 How to reach me @michiasshif@gmail.com...
