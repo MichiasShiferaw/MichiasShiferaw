@@ -4,7 +4,7 @@
 - 📫 How to reach me @michiasshif@gmail.com...
 
 <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiasShiferaw&layout=compact"/>
-<img="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <!---
 MichiasShiferaw/MichiasShiferaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
