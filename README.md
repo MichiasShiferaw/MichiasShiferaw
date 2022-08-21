@@ -2,6 +2,8 @@
 - 👀 I’m interested in software 
 - 🌱 I’m currently learning C++
 - 📫 How to reach me @michiasshif@gmail.com...
+
+<img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiasShiferaw)"
 <!---
 MichiasShiferaw/MichiasShiferaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -18,7 +20,7 @@ Basic Format
 --->
 
 <!--
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichiasShiferaw)](https://github.com/anuraghazra/github-readme-stats)
 
