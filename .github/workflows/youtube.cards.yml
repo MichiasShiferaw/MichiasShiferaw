@@ -19,7 +19,7 @@ jobs:
           lang: en
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }} # Configured in Actions Secrets (see Wiki)
-          max_videos: 6
+          max_videos: 3
           base_url: https://ytcards.demolab.com/
           card_width: 250
           background_color: "#0d1117"
@@ -30,7 +30,7 @@ jobs:
           show_duration: true # Requires YouTube API Key (see Wiki)
           author_name: GitHub Actions
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_message: "docs(readme): Update YouTube cards"
+          commit_message: "docs(readme): Update YouTube Videos List"
           readme_path: README.md
           output_only: false
           output_type: markdown
