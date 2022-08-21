@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 📫 How to reach me @michiasshif@gmail.com...
 
-<img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiasShiferaw)"/>
+<img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiasShiferaw&layout=compact"/>
 <!---
 MichiasShiferaw/MichiasShiferaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
