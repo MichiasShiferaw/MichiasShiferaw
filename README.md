@@ -1,21 +1,27 @@
+
+
 # 👋 Hi, I’m @MichiasShiferaw
 
+<div>
+<img src="./download.png" align="right" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="500" />
+
+</div>
+
+<p float="left">
 
 
-<table>
-<tr>
-<td>
+<div>
 
 
 - 🌱 I'm a fourth year software engineering student.
 
 Want to know more about me? [Check out my portfolio.](https://github.com/)
 
-<br>
 
-## Reach Out
 
 <br>
+
+
 
 
 ## 📌 Pinned Repositories
@@ -52,9 +58,6 @@ Want to know more about me? [Check out my portfolio.](https://github.com/)
 <br>
 
 
-
-
-
 <details>
 <summary>More Skills</summary>
 <br>
@@ -83,16 +86,12 @@ Want to know more about me? [Check out my portfolio.](https://github.com/)
 <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white"/>
 <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 
-
-
 </details>
 
 <br>
-</td>
-<td>
-<img src="./download.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="400" />
+
+</div>
+
+</p>
 
 
-</td>
-</tr>
-</table>
