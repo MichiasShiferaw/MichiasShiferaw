@@ -1,6 +1,5 @@
 
-
-# 👋 Hi, I’m @MichiasShiferaw
+<h1 align="center">Hi 👋, I'm Michias</h1>
 
 <div>
 <img src="./download.png" align="right" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="500" />
@@ -9,22 +8,22 @@
 
 <p float="left">
 
-
 <div>
 
 
-- 🌱 I'm a fourth year software engineering student.
-
-Want to know more about me? [Check out my portfolio.](https://github.com/)
-
-
+I'm a fourth year software engineering student.
 
 <br>
 
 
+Want to know more about me? [Check out my portfolio.](https://michiasshiferaw.github.io/)
 
 
-## 📌 Pinned Repositories
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/michiasshiferaw" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="Michias Shiferaw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kuubamusic" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/youtube-icon.svg" alt="Michias Shiferaw" height="30" width="40" /></a>
+</p>
 
 <br>
 
@@ -57,6 +56,8 @@ Want to know more about me? [Check out my portfolio.](https://github.com/)
 
 <br>
 
+
+<br>
 
 <details>
 <summary>More Skills</summary>
