@@ -16,7 +16,7 @@ I'm a fourth year software engineering student.
 <br>
 
 
-Want to know more about me? [Check out my portfolio.](https://michiasshiferaw.github.io/)
+Want to know more about me? [Check out my portfolio.](https://michias.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
