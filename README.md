@@ -19,14 +19,32 @@ I'm a fourth year software engineering student.
 Want to know more about me? [Check out my portfolio.](https://michias.vercel.app/)
 
 
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+
 <a href="https://www.linkedin.com/in/michiasshiferaw" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="Michias Shiferaw" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kuubamusic" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/youtube-icon.svg" alt="Michias Shiferaw" height="30" width="40" /></a>
 </p>
 
 <br>
 
+
+<p align="left">
+<h3> Check out my personal blog! </h2>
+<a href="http://acrudi.vercel.app/" target="blank"style="textdecoration:none;">
+<img src="./blog.png" alt="Blog" height="50" width="50" />
+</a>
+</p>
+
+
+
+<br>
 
 ## &#x1f4c8; GitHub Stats
 <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiasShiferaw&layout=compact"/>
