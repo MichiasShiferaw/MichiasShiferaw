@@ -25,6 +25,7 @@ Want to know more about me? [Check out my portfolio.](https://michias.vercel.app
 
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://my-promo.vercel.app/" target="blank"><img align="center" src="https://github.com/MichiasShiferaw/MichiasShiferaw/assets/68077955/d2203739-8ef8-4eef-af53-22336f57c1f5" alt="Michias Shiferaw Promos" height="90" width="120" /></a>
 <p align="left">
   
 
